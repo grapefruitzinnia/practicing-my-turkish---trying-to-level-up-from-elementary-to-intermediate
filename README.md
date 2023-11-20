@@ -14,3 +14,5 @@ i dont get it = its in `quotes`
 * i can make the best chicken / en iyi tavuğu `yapabilirim`
 
 * i can cook the best chicken / en iyi tavuğu `pişirebilirim`
+
+* i love coffee / kahve severim
