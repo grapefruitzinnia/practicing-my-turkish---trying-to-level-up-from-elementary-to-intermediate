@@ -19,3 +19,5 @@ i dont get it = its in `quotes`
 
 * i think coffee is the best / bence kahve en iyisi
 
+
+im getting this https://store.duolingo.com/products/duo-plushie 🥺
